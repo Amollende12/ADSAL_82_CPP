@@ -1,3 +1,7 @@
+/*Implement a problem of number of zero 
+Given an array of one's and zero's which has all 1st follwed by all 0's ?
+find the number of 0's count the number of zeros in the given array.*/
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -46,3 +50,6 @@ int main() {
 
     return 0;
 }
+
+//INPUT:-int arr[] = {1, 1, 1, 0, 0};
+//OUTPUT:-Number of 0s: 2
