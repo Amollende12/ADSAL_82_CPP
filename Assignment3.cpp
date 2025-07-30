@@ -42,5 +42,7 @@ whose factorial contains at least n trailing zeroes.*/
     return 0;
 
    }
+/*INPUT:-Enter the number: 5
 
+OUTPUT:-25*/
  
